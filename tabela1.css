@@ -12,9 +12,9 @@ table, th, td {
 }
 
 tr:nth-child(even) {
-	background-color: #fff;
+	background-color: #fae5b6;
 }
 
 tr:nth-child(odd) {
-	background-color: #ddd;
+	background-color: #d4e2ff;
 }
